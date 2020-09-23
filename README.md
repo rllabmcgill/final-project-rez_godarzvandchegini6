@@ -4,7 +4,7 @@
   <img src="BTC.png?raw=true" alt="Historical Bitcoin to USD" title="Historical Bitcoin to USD" width=600 />
 </p>
 
-  * **Author: AhmadReza GodarzvandChegini**
+  * **Author: Rez GodarzvandChegini**
 
   * **[Colab's runtime](https://drive.google.com/file/d/1P8mhR8AsZ9Ol3bz1gbar_P0VHDfQm_-2/view?usp=sharing)**
 
